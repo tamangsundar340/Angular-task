@@ -1,3 +1,7 @@
+
+![Screenshot 2022-02-11 122211](https://user-images.githubusercontent.com/88138560/153547509-06df50b2-dbaf-4998-8fb1-a0199a61791a.png)
+
+
 # AngularPractise
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
